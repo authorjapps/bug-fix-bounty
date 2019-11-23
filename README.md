@@ -18,3 +18,7 @@ Bug Fix and Feature Discovery Bounty
 
 
 # Suggest Package Management
+
+
+# Points-Complexity Metrix
+Visit this [page](https://github.com/authorjapps/bug-fix-bounty/wiki)
